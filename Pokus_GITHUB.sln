@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokus_GITHUB", "Pokus_GITHUB\Pokus_GITHUB.csproj", "{1F28212B-43E7-432D-8544-E42ACC90F1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F28212B-43E7-432D-8544-E42ACC90F1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F28212B-43E7-432D-8544-E42ACC90F1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F28212B-43E7-432D-8544-E42ACC90F1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F28212B-43E7-432D-8544-E42ACC90F1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2470B89C-1F10-4F60-AF6B-534B734FED93}
+	EndGlobalSection
+EndGlobal
